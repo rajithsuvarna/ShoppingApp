@@ -25,11 +25,13 @@
    ```bash
    git clone https://github.com/your-username/shopping-app.git
    cd shopping-app
+   
 Install the dependencies:
 
-bash
+```bash
 Copy code
 npm install
+
 Set up Firebase:
 
 Create a Firebase project at Firebase Console.
