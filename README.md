@@ -1,5 +1,8 @@
 # 🛍️ Shopping App
 
+## Hoisted Link: 
+https://buybusy-69c1a.web.app/signin
+
 ## Features
 
 - 🔐 **Sign In & Sign Up:** Users can create an account or log in to their existing accounts using Firebase Authentication.
