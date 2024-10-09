@@ -35,6 +35,5 @@
 3. Start the development server:
 
    ```bash
-   Copy code
    npm start
 Open your browser and navigate to http://localhost:3000.
