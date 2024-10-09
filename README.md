@@ -29,7 +29,6 @@
 2. Install the dependencies:
 
    ```bash
-   Copy code
    npm install
 
 3. Start the development server:
