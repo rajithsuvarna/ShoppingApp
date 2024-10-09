@@ -26,31 +26,15 @@
    git clone https://github.com/your-username/shopping-app.git
    cd shopping-app
    
-Install the dependencies:
+2. Install the dependencies:
 
-```bash
-Copy code
-npm install
+   ```bash
+   Copy code
+   npm install
 
-Set up Firebase:
+3. Start the development server:
 
-Create a Firebase project at Firebase Console.
-
-Enable Firestore and Authentication (Email/Password).
-
-Get your Firebase configuration and add it to your project in a .env file:
-
-env
-Copy code
-REACT_APP_FIREBASE_API_KEY=your_api_key
-REACT_APP_FIREBASE_AUTH_DOMAIN=your_auth_domain
-REACT_APP_FIREBASE_PROJECT_ID=your_project_id
-REACT_APP_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-REACT_APP_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
-REACT_APP_FIREBASE_APP_ID=your_app_id
-Start the development server:
-
-bash
-Copy code
-npm start
+   ```bash
+   Copy code
+   npm start
 Open your browser and navigate to http://localhost:3000.
