@@ -41,11 +41,12 @@
 Open your browser and navigate to http://localhost:3000.
 
 ## Demo:
+
+![Screenshot (306)](https://github.com/user-attachments/assets/3c4217eb-8363-4b8a-8c81-6e5fcc8fd87e)
+
 ![Screenshot (302)](https://github.com/user-attachments/assets/7df5a632-2328-4208-a9a0-3dd42b0f81d8)
 
 ![Screenshot (303)](https://github.com/user-attachments/assets/a098c0d4-0143-4ba4-a80f-db3dfffa62f9)
-
-![Screenshot (306)](https://github.com/user-attachments/assets/3c4217eb-8363-4b8a-8c81-6e5fcc8fd87e)
 
 ![Screenshot (307)](https://github.com/user-attachments/assets/524aed39-d637-4e3a-a950-af30d282365d)
 
